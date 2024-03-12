@@ -1,0 +1,24 @@
+{
+  "originHash" : "db5eb66d28a7039033396631c72d57a523f1330e3c5186aff2352f6243d0e036",
+  "pins" : [
+    {
+      "identity" : "shield-behavioural-analysis-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajdeepak27/shield-behavioural-analysis-spm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "12c969b5d7c4f32863b6ef0e9dff03d18f98d64c"
+      }
+    },
+    {
+      "identity" : "shieldfraud-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shield-ai-technology/shieldfraud-spm.git",
+      "state" : {
+        "revision" : "53dabc5c587f56c8f490a13b5cc7ee3f0e74975b",
+        "version" : "1.5.36"
+      }
+    }
+  ],
+  "version" : 3
+}
