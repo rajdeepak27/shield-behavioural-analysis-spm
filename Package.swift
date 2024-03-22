@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "1-0-0"
-let shieldbehavioural_checksum = "9c543086a65514b4249d32b1b56f4942eadf1cbd383947889d345b1cffd18e62"
+let version = "1-0-1"
+let shieldbehavioural_checksum = "7d60952c24227fbd05646b88f02fa9e9afc2d4ad34be8bda36df79e643773832"
 
 let package = Package(
     name: "shield-behavioural-analysis-spm",
@@ -18,7 +18,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/shield-ai-technology/shieldfraud-spm.git", from: "1.5.36")
+        .package(url: "https://github.com/shield-ai-technology/shieldfraud-spm.git", from: "1.5.37")
     ],
     targets: [
         .binaryTarget(
