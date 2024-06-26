@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "1-0-2"
-let shieldbehavioural_checksum = "d46c8440e933c6b9c13500b844920cfd4eef4e9b4906c8d6ff4572a6a2589d70"
+let version = "1-0-3"
+let shieldbehavioural_checksum = "38879e7f0a27cd19d945e2110db3e3ae2306457970b125cf669906f87bdbad11"
 
 let package = Package(
     name: "shield-behavioural-analysis-spm",
